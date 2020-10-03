@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+print("New Repsitory")
+print("Connecting Git to RStudio")
